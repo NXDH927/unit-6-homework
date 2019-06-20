@@ -4,7 +4,7 @@ var replace = $("#gif-image")
 
 var gif;
 
-var queryURL = "http://api.giphy.com/v1/gifs/search?q="
+var queryURL = "https://api.giphy.com/v1/gifs/search?q="
 
 var apiKey = "&apikey=mgHf1BPpOOeQP4zSIEy7l7a9bvMqiiXL";
 
